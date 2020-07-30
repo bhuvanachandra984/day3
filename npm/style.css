@@ -5,6 +5,24 @@
     margin: 0;
     size: 15px;
 }
+#black
+{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+}
+#b4{
+    width:20px;
+}
+svg,
+#black img 
+{
+    height:25px;
+    width: 35px;
+    margin-top:10px;
+}
 .form-control{
     width:50%;
     height:35px;
@@ -96,24 +114,7 @@ ul li{
 {
     padding :10px 10px;
 }
-#black
-{
-    background: black;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-weight: 400;
-}
-#b4{
-    width:20px;
-}
-svg,
-#black img 
-{
-    height:25px;
-    width: 35px;
-    margin-top:10px;
-}
+
 .skill{
     display:flex;
     flex-direction:column;
